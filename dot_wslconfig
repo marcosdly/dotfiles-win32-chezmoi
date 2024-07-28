@@ -1,0 +1,9 @@
+# See: https://learn.microsoft.com/en-us/windows/wsl/wsl-config
+
+[wsl2]
+memory=4GB
+swap=8GB
+guiApplications=false
+defaultVhdSize=100GB
+nestedVirtualization=false
+
